@@ -1,0 +1,11 @@
+Build 2 Contract Solidity 0.8.18
+- > ContractsToken
+    -> Contruktor
+       -> 1. Deflation Otu Burn 2.5%
+       -> 2. Fee Devloper 1%
+       -> 3. Tax Country  0.5 %
+       -> 4. Repile Liquidity 2 %
+- > ContractsSale
+    -> Contruktor
+       -> 1 Buy Token outo topup
+       -> Refferak fee 10%
